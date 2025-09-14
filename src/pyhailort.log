@@ -1,2 +1,0 @@
-2025-09-12 17:33:37,074 - WARNING - pyhailort.py:1022 - Given input data dtype (uint8) is different than inferred dtype (float32). conversion for every frame will reduce performance
-2025-09-12 17:35:11,731 - WARNING - pyhailort.py:1022 - Given input data dtype (uint8) is different than inferred dtype (float32). conversion for every frame will reduce performance
